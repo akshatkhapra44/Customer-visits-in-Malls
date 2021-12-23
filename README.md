@@ -1,1 +1,1 @@
-# Customer-visits-in-Malls
+Mall Foot Traffic Prediction
